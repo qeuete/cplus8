@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DynamicLib",
+    "\\DynamicLib\\x64",
+    "\\DynamicLib\\x64\\Debug",
+    "\\StaticLib",
+    "\\StaticLib\\x64",
+    "\\Test"
+  ],
+  "PreviewInSolutionExplorer": false
+}
